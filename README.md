@@ -5,7 +5,9 @@
 
 > Bu loyihada CRUD ammalari fetch orqalik amalga oshiriladi.
 
-<!-- ### 🏠 [Homepage] -->
+> This is React book app store for learning Reactjs
+
+### 🏠 [Homepage](https://react-crud-fetch.vercel.app/)
 
 ## Install
 
@@ -36,6 +38,5 @@ yarn test
 
 Give a ⭐️ if this project helped you!
 
----
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+## Images
+<img src="react-crud-fetch.png" width="100%">
