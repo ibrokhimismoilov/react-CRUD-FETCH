@@ -5,8 +5,6 @@
 
 > Bu loyihada CRUD ammalari fetch orqalik amalga oshiriladi.
 
-> This is React book app store for learning Reactjs
-
 ### 🏠 [Homepage](https://react-crud-fetch.vercel.app/)
 
 ## Install
